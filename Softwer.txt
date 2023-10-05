@@ -1,0 +1,39 @@
+Juego,Call of Duty,18,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},Shooter,Action,Multiplayer,Single Player
+Juego,The Legend of Zelda,10,{Niño1, Niño2, Niño3, Niño4},Adventure,Role-Playing,Open World
+Juego,Grand Theft Auto V,18,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},Action,Adventure,Open World,Multiplayer
+Juego,Minecraft,7,{Niño1, Niño2, Niño3, Niño4},Sandbox,Adventure,Multiplayer,Single Player
+Juego,Fortnite,13,{Niño1, Niño2, Niño3, Niño4},Battle Royale,Shooter,Multiplayer,Single Player
+Juego,Among Us,10,{Niño1, Niño2, Niño3, Niño4},Party,Multiplayer
+Juego,League of Legends,13,{Niño1, Niño2, Niño3, Niño4},MOBA,Multiplayer
+Juego,Overwatch,13,{Niño1, Niño2, Niño3, Niño4},Hero Shooter,Team-Based,Multiplayer
+Juego,The Sims 4,13,{Niño1, Niño2, Niño3, Niño4},Life Simulation,Single Player
+Juego,Resident Evil Village,18,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},Horror,Survival,Action,Single Player
+Juego,Super Mario Odyssey,10,{Niño1, Niño2, Niño3, Niño4},Platformer,Adventure,Single Player
+Juego,The Witcher 3: Wild Hunt,18,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},Action RPG,Open World,Single Player
+Juego,Red Dead Redemption 2,18,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},Action-Adventure,Open World,Single Player
+Juego,Cyberpunk 2077,18,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},Open World,Action RPG,Single Player
+Juego,Counter-Strike: Global Offensive,18,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},First-Person Shooter,Multiplayer
+Juego,Valorant,16,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},First-Person Shooter,Hero Shooter,Multiplayer
+Juego,Hollow Knight,7,{Niño1, Niño2, Niño3, Niño4},Platformer,Adventure,Single Player
+Juego,Celeste,7,{Niño1, Niño2, Niño3, Niño4},Platformer,Indie,Single Player
+Juego,Rocket League,3,{Niño1, Niño2, Niño3, Niño4},Sports,Racing,Multiplayer
+Juego,Stardew Valley,7,{Niño1, Niño2, Niño3, Niño4},Farming,Simulation,Single Player
+Ofimática,Microsoft Office,0,{Niño1, Niño2, Niño3, Niño4},10,DocX,Excel,PPT,Access
+Ofimática,LibreOffice,0,{Niño1, Niño2, Niño3, Niño4},0,DocX,Calc,Impress,Base
+Ofimática,Google Docs,0,{Niño1, Niño2, Niño3, Niño4},0,Document,Spreadsheet,Slides,Forms
+Ofimática,WPS Office,0,{Niño1, Niño2, Niño3, Niño4},5,DocX,PPT,PDF,Spreadsheets
+Ofimática,Apache OpenOffice,0,{Niño1, Niño2, Niño3, Niño4},0,Writer,Calc,Impress,Base
+Producción,Adobe Premiere,16,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},200,Video,Audio,Editing,Effects
+Producción,Final Cut Pro,16,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},300,Video,Audio,Editing,Effects
+Producción,Logic Pro X,16,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},199,Audio,Music,Production,Recording
+Producción,Ableton Live,16,{Usuario1, Usuario3, Usuario4, Usuario6, Usuario7, Usuario8, Usuario9, Usuario10},449,Audio,Music,Production,Live Performance
+Navegador,Google Chrome,0,{Niño1, Niño2, Niño3, Niño4},0,https://www.google.com,https://www.youtube.com,https://www.facebook.com,https://www.twitter.com,https://www.amazon.com,https://www.netflix.com,https://www.linkedin.com,https://www.instagram.com,https://www.spotify.com,https://www.pinterest.com,https://www.github.com,https://www.stackoverflow.com
+Navegador,Mozilla Firefox,0,{Niño1, Niño2, Niño3, Niño4},0,https://www.mozilla.org,https://www.reddit.com,https://www.wikipedia.org,https://www.gmail.com,https://www.yahoo.com,https://www.bing.com,https://www.twitch.tv,https://www.quora.com,https://www.aliexpress.com,https://www.walmart.com,https://www.apple.com,https://www.msn.com
+Seguridad,McAfee,0,{Jose},50,Antivirus,Firewall,Malware,Protection
+Seguridad,Norton Antivirus,0,{Jose},45,Antivirus,Security,Malware,Protection
+Seguridad,Avast Antivirus,0,{Jose},0,Antivirus,Security,Malware,Protection
+Seguridad,Bitdefender,0,{Jose},60,Antivirus,Security,Malware,Protection
+Seguridad,Kaspersky,0,{Jose},55,Antivirus,Security,Malware,Protection
+Seguridad,Windows Defender,0,{Jose},0,Antivirus,Security,Malware,Protection
+Social,Facebook,13,{Niño1, Niño2, Niño3, Niño4},100,Photos,Messages,Groups,Events,Niño1,{Niño2, Niño3}}
+Social,Instagram,13,{Niño1, Niño2, Niño3, Niño4},100,Photos,Stories,Messages,IGTV,Niño2,{Niño2, Niño3}}
